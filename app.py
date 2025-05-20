@@ -152,7 +152,7 @@ app.layout = html.Div([
         ]),
         html.Div(className="card", children=[
             html.I(className="fa fa-shield-check"),
-            html.H3("Governance-Ready"),
+            html.H3("Responsible AI-Ready"),
             html.P("Every generated statement is validated for syntax & blocked keywords.")
         ]),
     ]),
